@@ -1,6 +1,6 @@
 # Software Development and Operations
 
-## ClubZen IITK (Group Project)
+## <a href="https://github.com/Shreyasi2002/CS253_Project">ClubZen IITK (Group Project)</a>
 
 Developed a cross-platform Web Application to integrate all clubs and societies under MnC, SnT, etc., and College fests in a modular format. A separate feed was created for each club and community.
 
@@ -16,7 +16,7 @@ The main features of the app are -
 
 More details about the application can be found at - https://github.com/Shreyasi2002/CS253_Project
 
-## Library Management System
+## <a href="https://github.com/Shreyasi2002/Library_Management_System">Library Management System</a>
 
 Implemented Library Management System in C++ language on command line interface using Object-oriented programming concepts.
 
