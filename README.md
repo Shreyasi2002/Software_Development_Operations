@@ -69,7 +69,7 @@ Press any other key and Enter to exit the application...
 
 The implementation can be found at - https://github.com/Shreyasi2002/Library_Management_System
 
-## Spam Classifier
+## <a href="https://github.com/Shreyasi2002/Software_Development_Operations/blob/main/spam_not_spam.ipynb">Spam Classifier</a>
 
 Built a classifier to classify emails as spam or non-spam. We used the Kaggle dataset <a href="https://www.kaggle.com/datasets/ozlerhakan/spam-or-not-spam-dataset">Spam or Not Spam Dataset</a> for this task.
 
