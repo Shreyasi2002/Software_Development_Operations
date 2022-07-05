@@ -12,7 +12,7 @@ The main features of the app are -
 - Forums section for interacting with clubs.
 - Access levels with restrictions based on the position of individuals.
 
-<img src="https://github.com/Shreyasi2002/CS253_Project/blob/main/images/home_page.jpg">
+<img src="https://github.com/Shreyasi2002/CS253_Project/blob/main/images/home_page.jpg"/>
 
 More details about the application can be found at - https://github.com/Shreyasi2002/CS253_Project
 
@@ -77,8 +77,9 @@ Steps performed :
 
 - Used the **Bag-of-Words** representation to process the text.
 - Visualized the frequency of word-occurence in all the emails.
-<img src="">
 - Used **SVM** and **K-Nearest Neighbour** to build the classifier.
+
+<img src="https://github.com/Shreyasi2002/Software_Development_Operations/blob/main/word_occurence.png" width="70%"/>
 
 ```
 #### KNN Classifier with n_neighbors = 3 ####
